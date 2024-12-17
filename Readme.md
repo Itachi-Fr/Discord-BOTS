@@ -1,3 +1,3 @@
 # Discord-BOTS
 
-**Various Discord Bots Written in Python**
+**Various Discord Bots Tools Written in discord.py**
